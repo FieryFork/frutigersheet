@@ -1,0 +1,215 @@
+body {
+    background-image: linear-gradient(to bottom, #b9e0eb, #96d485);
+}
+h1 {
+    font-family: Roboto;
+    color: white;
+    font-weight: 1;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.3), rgba(100, 100, 100, 0.3));
+    padding: 5px;
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+}
+h2 {
+    font-family: Roboto;
+    color: white;
+    font-weight: 1;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.3), rgba(100, 100, 100, 0.3));
+    padding: 5px;
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+}
+h3 {
+    font-family: Roboto;
+    color: white;
+    font-weight: 50;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.3), rgba(100, 100, 100, 0.3));
+    padding: 5px;
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+}
+h4 {
+    font-family: Roboto;
+    color: white;
+    font-weight: 50;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.3), rgba(100, 100, 100, 0.3));
+    padding: 5px;
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+}
+h5 {
+    font-family: Roboto;
+    color: white;
+    font-weight: 50;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.3), rgba(100, 100, 100, 0.3));
+    padding: 5px;
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+}
+h6 {
+    font-family: Roboto;
+    color: white;
+    font-weight: 50;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.3), rgba(100, 100, 100, 0.3));
+    padding: 5px;
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+}
+p {
+    font-family: arial;
+    color: gray;
+    font-weight: 50;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(155, 155, 155, 0.3));
+    padding: 10px;
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+}
+li {
+    font-family: arial;
+    color: gray;
+    font-weight: 50;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(155, 155, 155, 0.3));
+    padding: 10px;
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+}
+details {
+    font-family: arial;
+    color: gray;
+    font-weight: 50;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(155, 155, 155, 0.3));
+    padding: 10px;
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+}
+a:visited {
+    font-family: Verdana;
+    color: white;
+    font-weight: 50;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, rgba(100, 100, 100, 0.3), rgba(55, 55, 55, 0.3));
+    padding: 9px;
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+}
+a:link {
+    font-family: Verdana;
+    color: white;
+    font-weight: 50;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.3), rgba(100, 100, 100, 0.3));
+    padding: 6px;
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+}
+a:hover {
+    font-family: Verdana;
+    color: gray;
+    font-weight: 50;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(155, 155, 155, 0.3));
+    padding: 9px;
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+}
+dl {
+    font-family: Verdana;
+    color: white;
+    font-weight: 50;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.3), rgba(100, 100, 100, 0.3));
+    padding: 6px;
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+}
+dt {
+    font-family: Verdana;
+    color: white;
+    font-weight: 50;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.3), rgba(100, 100, 100, 0.3));
+    padding: 6px;
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+}
+dd {
+    padding: 20px;
+}
+audio {
+    font-family: Verdana;
+    color: white;
+    font-weight: 50;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.3), rgba(100, 100, 100, 0.3));
+    padding: 6px;
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+}
+audio:hover {
+    font-family: Verdana;
+    color: white;
+    font-weight: 50;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(155, 155, 155, 0.3));
+    padding: 6px;
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+}
+video {
+    font-family: Verdana;
+    color: white;
+    font-weight: 50;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.3), rgba(100, 100, 100, 0.3));
+    padding: 10px;
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+}
+video:hover {
+    font-family: Verdana;
+    color: white;
+    font-weight: 50;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(155, 155, 155, 0.3));
+    padding: 10px;
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+}
+address {
+    font-family: Verdana;
+    color: white;
+    font-weight: 50;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.3), rgba(100, 100, 100, 0.3));
+    padding: 10px;
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+}
+iframe {
+    font-family: Verdana;
+    color: white;
+    font-weight: 50;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.3), rgba(100, 100, 100, 0.3));
+    padding: 10px;
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+    border-width: 0px;
+}
+section {
+    font-family: Verdana;
+    color: white;
+    font-weight: 50;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.3), rgba(100, 100, 100, 0.3));
+    padding: 10px;
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+    border-width: 0px;
+}
+img {
+    font-family: Verdana;
+    color: white;
+    font-weight: 50;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.3), rgba(100, 100, 100, 0.3));
+    padding: 10px;
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+}
+img:hover {
+    font-family: Verdana;
+    color: white;
+    font-weight: 50;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(155, 155, 155, 0.3));
+    padding: 10px;
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+}
